@@ -1,4 +1,5 @@
-# BlogS
+# Description
+Blog réalisé en php et symfony
 
 # Lancer l'application
 
